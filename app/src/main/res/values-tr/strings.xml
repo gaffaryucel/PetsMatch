@@ -22,4 +22,24 @@
     <string name="save">Kaydet</string>
     <string name="title_create_post">Evcil Hayvan İlanı Oluştur</string>
     <string name="error_text">Hata : Tekrar Deneyin</string>
+
+//Entry
+    //Login
+    <string name="welcome_title">Hoş Geldiniz!</string>
+    <string name="welcome_description">PetsMatch, evcil hayvan sahipleri ve sahiplenmek isteyenler için bir eşleştirme platformudur.</string>
+    <string name="email_hint">E-posta</string>
+    <string name="password_hint">Şifre</string>
+    <string name="forgot_password">Şifreni mi unuttun?</string>
+    <string name="sign_in">Giriş Yap</string>
+    <string name="go_to_register">Yada bu yöntemleri dene</string>
+
+    //Register
+    <string name="register_title">Hemen Kayıt Olun!</string>
+    <string name="register_description">PetsMatch'e katılın, evcil hayvan sahipleriyle bağlantı kurun veya yeni bir dost edinmek için adım atın.</string>
+    <string name="full_name_hint">Ad Soyad</string>
+    <string name="confirm_password_hint">Şifreyi Onayla</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="login_methods">Ya da bu yöntemleri deneyin</string>
+
+
 </resources>
